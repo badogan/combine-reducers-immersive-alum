@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { addBook } from '../actions';
+import { addBook } from '../actions/index';
 import uuid from 'uuid';
 import { connect } from 'react-redux';
 
